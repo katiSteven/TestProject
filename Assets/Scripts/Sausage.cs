@@ -8,6 +8,7 @@ public class Sausage : MonoBehaviour {
 	void Start () {
         print("You found the sausage");
         print("You found something");
+        print("Added something else");
 	}
 	
 	// Update is called once per frame
